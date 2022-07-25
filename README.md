@@ -2,7 +2,7 @@
 ## Full Stack Software Engineer
 I'm Muyiwa from Lagos Nigeria, a student of ALX Africa in Software Engineering program. I have a strong interest in the world of tech. I am keen at learning and making things world, doing complex things in a simple way using technology. Also, I am learning FrontEnd Web Development starting with HTML and CSS. 
 
-Skills: 
+# Skills: 
 * 💻HTML, C
 * 🔗GIT
 
