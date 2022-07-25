@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300" heigth="30"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" heigth="30"/>
   
-# Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40"/>, I'm Muyiwa Fatunsin 💻 </div>
+# Hi <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="40"/>, I'm Muyiwa Fatunsin 💻 </div>
 </div>
 
 <div> <img src="https://komarev.com/ghpvc/?username=phatlines&style=flat-square&color=blue" alt="Profile"/>
@@ -35,14 +35,3 @@ I am Software Engineer at ALX. I have a strong interest in the world of tech. I 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phatlines&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/muyiwa-fatunsin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/phatlines">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://twitter.com/_phatlines_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
