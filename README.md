@@ -4,9 +4,11 @@
 # Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40"/>, I'm Muyiwa Fatunsin 💻 </div>
 </div>
 
-<div> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Profile"/>
-<img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/5e8e2b586a7a5f75a999e1c3080b66c3e1c4e93a172cd26207e184f5219353d5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61622f63342f35622f61626334356239633335366662623834363633326630313061613361343465662e676966"> </div>
-<div> 
+<div> <img src="https://komarev.com/ghpvc/?username=phatlines&style=flat-square&color=blue" alt="Profile"/>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+</div>
+
+<div>
 
 ## About me 🧑‍💻
 I am Software Engineer at ALX. I have a strong interest in the world of tech. I am keen at learning and making things world, doing complex things in a simple way using technology. Also, I am learning FrontEnd Web Development starting with HTML and CSS. 
