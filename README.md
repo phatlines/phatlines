@@ -1,14 +1,10 @@
-# Hi, It's Muyiwa 👋
-
-A young architect and a student of ALX Africa in Software Engineering program. I have a strong interest in the world of tech. I am keen at learning and making things world, doing complex things in a simple way using technology. Also, I am learning FrontEnd Web Development starting with HTML and CSS. You can check me out on twitter.com/phatlines_ or instagram.com/phatlines_ or linkedim.com/muyiwa-fatunsin.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatlines&theme=great-gatsby&show_icons=true)
-
-### Hi there 👋, 'phatlines
-#### Full Stack Software Engineer
+# Hi there 👋 It's 'phatlines
+## Full Stack Software Engineer
 I'm Muyiwa from Lagos Nigeria, a student of ALX Africa in Software Engineering program. I have a strong interest in the world of tech. I am keen at learning and making things world, doing complex things in a simple way using technology. Also, I am learning FrontEnd Web Development starting with HTML and CSS. 
 
-Skills: HTML, C, GIT
+Skills: 
+* 💻HTML, C
+* 🔗GIT
 
 - 🔭 I’m currently working on ALX Software Engineering Program 
 - 🌱 I’m currently learning FrontEnd Web Development 
