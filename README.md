@@ -1,6 +1,9 @@
-# Hi there 👋 It's 'phatlines
-## Full Stack Software Engineer
-I'm Muyiwa from Lagos Nigeria, a student of ALX Africa in Software Engineering program. I have a strong interest in the world of tech. I am keen at learning and making things world, doing complex things in a simple way using technology. Also, I am learning FrontEnd Web Development starting with HTML and CSS. 
+<div>
+# Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40"/>, I'm Muyiwa Fatunsin 💻 
+</div>
+
+## About me 🧑‍💻
+ ALX Africa in Software Engineering program. I have a strong interest in the world of tech. I am keen at learning and making things world, doing complex things in a simple way using technology. Also, I am learning FrontEnd Web Development starting with HTML and CSS. 
 
 # Skills: 
 * 💻HTML, C
