@@ -31,9 +31,19 @@ I am Software Engineer at ALX. I have a strong interest in the world of tech. I 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/phatlines)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muyiwa-fatunsin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/phatlines_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/phatlines_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/phatlines)
 
-# Stats 🧑‍💻
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatlines&theme=noctis_minimus&show_icons=true)
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phatlines&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+# Github Stats 🧑‍💻
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/phatlines"><img alt="Phatlines's Github Stats" src="https://github-readme-stats.vercel.app/api?username=phatlines&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+       <a href="http://www.github.com/phatlines"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phatlines&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/phatlines"><img alt="Phatlines's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatlines&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+</table>
 
 
