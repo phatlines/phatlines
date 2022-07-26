@@ -11,7 +11,7 @@
 <div>
 
 ## About me 🧑‍💻
-I am Software Engineer at ALX. I have a strong interest in the world of tech. I am keen at learning and making things world, doing complex things in a simple way using technology. Also, I am learning FrontEnd Web Development starting with HTML and CSS. 
+I am Software Engineer at ALX. I have a strong interest in the world of tech. I am keen at learning and making things work, doing complex things in a simple way using technology. Also, I am learning FrontEnd Web Development starting with HTML and CSS. 
 
 ## Languages, Skills & Tools
   <div>
