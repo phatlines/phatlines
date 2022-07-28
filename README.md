@@ -10,7 +10,7 @@
 
 <div>
 
-## About me <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="40"/>
+## About me <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="15"/>
 I am a Software Engineer at ALX. I have a strong interest in the world of tech. I am keen at learning and making things work, doing complex things in a simple way using technology. Also, I am learning FrontEnd Web Development starting with HTML and CSS. 
 
 ## Languages, Skills & Tools <img src="https://media.giphy.com/media/hvXcXEyDpdV1uZJ0nJ/giphy.gif" width="40"/>
@@ -20,7 +20,7 @@ I am a Software Engineer at ALX. I have a strong interest in the world of tech. 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
- ## Status <img src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" height="40" width="40"/>
+ ## Status <img src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" height="15" width="15"/>
 - 🔭 I’m currently working on ALX Software Engineering Program 
 - 🌱 I’m currently learning FrontEnd Web Development 
 - 👯 I’m looking to collaborate on Learning 
@@ -28,7 +28,7 @@ I am a Software Engineer at ALX. I have a strong interest in the world of tech. 
 - 📫 How to reach me: +234 816 523 5720 
 - ⚡ Fun fact: I can eat anything, everthing 😅 
 
-## Connect with me <img src="https://media.giphy.com/media/pJjKzRqY9HwME/giphy.gif" width="40"/>
+## Connect with me <img src="https://media.giphy.com/media/pJjKzRqY9HwME/giphy.gif" width="20"/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/phatlines)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muyiwa-fatunsin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/phatlines_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/phatlines_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/phatlines) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Phatlines)  
 
 # Github Stats 🧑‍💻
