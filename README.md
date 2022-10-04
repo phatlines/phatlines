@@ -1,8 +1,10 @@
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" heigth="30"/>
+
 # Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40"/>, I'm Muyiwa Fatunsin 💻 </div>
 </div>
 
 <div> <img src="https://komarev.com/ghpvc/?username=phatlines&style=flat-square&color=blue" alt="Profile"/>
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 </div>
 
 <div>
