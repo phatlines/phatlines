@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" heigth="30"/>
 
-# Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRvMjJleXQwbGh0NW0zYjJqdHlwZGhxN2NkcHo0YWdqdjk4bzE3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kFkDuCdGq5DJQQTL1X/giphy.gif" width="40"/>, I'm Muyiwa Adebayo 💻 </div>
+# Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRvMjJleXQwbGh0NW0zYjJqdHlwZGhxN2NkcHo0YWdqdjk4bzE3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kFkDuCdGq5DJQQTL1X/giphy.gif" width="25"/>, I'm Muyiwa Adebayo 💻 </div>
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div>
 
-## About me <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="15"/>
+## About me <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="25"/>
 I am a Software Engineer at ALX. I have a strong interest in the world of tech. I am keen at learning and making things work, doing complex things in a simple way using technology. Also, I am learning FrontEnd Web Development starting with HTML and CSS. 
 
 ## Languages, Skills & Tools <img src="https://media.giphy.com/media/hvXcXEyDpdV1uZJ0nJ/giphy.gif" width="25"/>
