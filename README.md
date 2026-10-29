@@ -1,49 +1,97 @@
-<div id="header" align="center">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" heigth="30"/>
+<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1724,50:1d2a3a,100:5BCDEC&height=220&section=header&text=Muyiwa%20Adebayo&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20Frontend%20Developer&descSize=18&descAlignY=58" width="100%" alt="header"/>
+</p>
 
-# Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRvMjJleXQwbGh0NW0zYjJqdHlwZGhxN2NkcHo0YWdqdjk4bzE3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kFkDuCdGq5DJQQTL1X/giphy.gif" width="25"/>, I'm Muyiwa Adebayo 💻 </div>
+<p align="center">
+  <a href="https://github.com/phatlines">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=5BCDEC&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=50&lines=Hi+there%2C+I'm+Muyiwa+%F0%9F%91%8B;Software+Engineer+%40+ALX+%F0%9F%9A%80;Turning+complex+problems+into+simple+code;Learning+Frontend%3A+HTML+%E2%86%92+CSS+%E2%86%92+JS;Open+to+internships+%26+collaboration+%F0%9F%A4%9D" alt="Typing SVG"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phatlines&label=Profile%20views&color=5BCDEC&style=for-the-badge" alt="profile views"/>
+  <a href="https://github.com/phatlines?tab=followers"><img src="https://img.shields.io/github/followers/phatlines?label=Followers&style=for-the-badge&color=1d2a3a&labelColor=0f1724&logo=github" alt="followers"/></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-5BCDEC?style=for-the-badge&labelColor=0f1724" alt="status"/>
+</p>
 
-<div> <img src="https://komarev.com/ghpvc/?username=phatlines&style=flat-square&color=blue" alt="Profile"/>
-</div>
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28"/> About Me
 
-<div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding"/>
+</p>
 
-## About me <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="25"/>
-I am a Software Engineer at ALX. I have a strong interest in the world of tech. I am keen at learning and making things work, doing complex things in a simple way using technology. Also, I am learning FrontEnd Web Development starting with HTML and CSS. 
+I love learning how things work, then making them work better.
+Right now I'm building strong foundations in **C** and growing into
+**Frontend Web Development**, one project at a time.
 
-## Languages, Skills & Tools <img src="https://media.giphy.com/media/hvXcXEyDpdV1uZJ0nJ/giphy.gif" width="25"/>
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+```js
+const muyiwa = {
+  role: "Software Engineer",
+  learning: ["HTML", "CSS", "JS"],
+  mantra: "Do complex things in a simple way.",
+  openTo: ["partnerships", "work"],
+  funFact: "I can eat anything, everything",
+}
+```
 
- ## Status <img src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" height="15" width="15"/>
-- 🔭 I’m currently working on ALX Software Engineering Program 
-- 🌱 I’m currently learning FrontEnd Web Development 
-- 👯 I’m looking to collaborate on Learning 
-- 🤔 I’m looking for help with Internship opportunities, Career advice, Tips. 
-- 📫 How to reach me: +234 816 523 5720 
-- ⚡ Fun fact: I can eat anything, everthing 😅 
+<!-- ═══════════════════════ STATUS ═══════════════════════ -->
+## <img src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" width="22"/> Currently
 
-## Connect with me <img src="https://media.giphy.com/media/pJjKzRqY9HwME/giphy.gif" width="20"/>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/phatlines)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muyiwa-fatunsin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/phatlines_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/phatlines_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/phatlines) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Phatlines)  
-
-# Github Stats 🧑‍💻
-<table>
-  <tr>
-    <td>
-       <a href="https://github.com/phatlines"><img alt="Phatlines's Github Stats" src="https://github-readme-stats.vercel.app/api?username=phatlines&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
-       <a href="http://www.github.com/phatlines"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phatlines&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/phatlines"><img alt="Phatlines's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatlines&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
-  </tr>
-</table>
+- 🌱 Growing knowledge on **Web Development** (HTML, CSS, TypeScript)
+- 👯 Looking to **collaborate** on projects
 
 
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+## <img src="https://media.giphy.com/media/hvXcXEyDpdV1uZJ0nJ/giphy.gif" width="26"/> Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,bash,linux,git,github,vscode,vim&perline=10" alt="skills"/>
+  </a>
+</p>
+
+<p align="center"><sub>🚧 Up next: React · Tailwind · Node.js</sub></p>
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=phatlines&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1d2a3a&title_color=5BCDEC&icon_color=5BCDEC&text_color=ffffff&rank_icon=github" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatlines&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a&title_color=5BCDEC&text_color=ffffff" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=phatlines&hide_border=true&background=1d2a3a&stroke=5BCDEC&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=8aa4b8" alt="GitHub streak"/>
+</p>
+
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+<!-- Needs .github/workflows/snake.yml in this repo (runs daily, publishes to the `output` branch) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phatlines/phatlines/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phatlines/phatlines/output/github-snake.svg"/>
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/phatlines/phatlines/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+## <img src="https://media.giphy.com/media/pJjKzRqY9HwME/giphy.gif" width="24"/> Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muyiwa-fatunsin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/phatlines_"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.instagram.com/phatlines_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://codepen.io/Phatlines"><img src="https://img.shields.io/badge/CodePen-1E1F26?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
+  <a href="https://github.com/phatlines"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8AA4B8&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let's+build+something+together." alt="outro"/>
+</p>
+
+<!-- ═══════════════════════ ANIMATED FOOTER ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5BCDEC,50:1d2a3a,100:0f1724&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+</p>
